@@ -1,5 +1,5 @@
-mod shapes;
 mod deck;
+mod shapes;
 fn main() {
     println!("-- Shapes Exercise --");
     shapes::run();
